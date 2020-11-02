@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="rsa:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/rsa_jar</output-path>
+    <root id="archive" name="rsa.jar">
+      <element id="module-output" name="rsa" />
+    </root>
+  </artifact>
+</component>
